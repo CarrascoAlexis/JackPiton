@@ -1,0 +1,12 @@
+{
+    "events":[
+        {
+            "authorId": 324673298468923,
+            "state": 0,
+            "title": "Un titre",
+            "shortDescription": "Une description courte de l'event",
+            "longDescription": "Une longue description de l'event",
+            "date": "date"
+        }
+    ]
+}
